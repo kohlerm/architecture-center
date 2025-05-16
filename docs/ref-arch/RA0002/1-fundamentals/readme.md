@@ -39,6 +39,7 @@ contributors:
   - uklasing
   - alperdedeoglu
   - arajsinha
+  - kohlerm
 discussion: 
 last_update:
   author: arajsinha
